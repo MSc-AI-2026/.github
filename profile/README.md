@@ -16,7 +16,7 @@ This workspace is intended to host:
 - Documentation, notes, and project write-ups
 - Sharing resources and reusable code
 
-## Our goals
+## Goals
 
 - Learn by building
 - Collaborate openly and effectively
