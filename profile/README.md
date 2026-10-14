@@ -4,17 +4,6 @@ Welcome to the GitHub organization for the MSc AI 2026 cohort.
 
 This organization is a shared space for collaborative learning, project work, experimentation, and portfolio-building across the field of artificial intelligence.
 
-## About the cohort
-
-We are a community of students exploring the foundations and applications of AI, including:
-
-- Machine learning
-- Deep learning
-- Data science and analytics
-- Computer vision
-- Natural language processing
-- AI engineering and MLOps
-- Research, experimentation, and applied problem solving
 
 ## What this organization contains
 
@@ -46,14 +35,6 @@ Each project repository should ideally include:
 - Results, evaluation, and documentation
 - A clean README for future readers
 
-## Community values
-
-- Curiosity and experimentation
-- Respectful collaboration
-- Clear communication
-- Reproducible work
-- Continuous learning
-
 ## Contributing
 
 If you are part of this organization, feel free to:
@@ -66,7 +47,3 @@ If you are part of this organization, feel free to:
 ## Status
 
 This organization is actively used as a learning and development space for MSc AI 2026 work.
-
----
-
-Built for learning, building, and exploring AI together.
